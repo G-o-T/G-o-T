@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/G-o-T/G-o-T/assets/95774476/e9973427-9a44-430b-ac4b-b1390b79ff83)
+![image]([https://github.com/G-o-T/G-o-T/assets/95774476/e9973427-9a44-430b-ac4b-b1390b79ff83](https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif))
 
 # I’m Olga Gotovtseva, Front End Developer
 
@@ -10,7 +10,7 @@
 
 
 ### Contacts:
-[![Linkedin Badge](https://img.shields.io/badge/-ereburg-yellow?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/gotovtseva/)](https://www.linkedin.com/in/gotovtseva/)
+[![Linkedin Badge](https://img.shields.io/badge/-gotovtseva-yellow?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/gotovtseva/)](https://www.linkedin.com/in/gotovtseva/)
 
 ### Technologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
