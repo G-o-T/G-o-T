@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![image]([https://github.com/G-o-T/G-o-T/assets/95774476/e9973427-9a44-430b-ac4b-b1390b79ff83](https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif))
+![ava](https://github.com/G-o-T/G-o-T/assets/95774476/56badfeb-3a7c-4e96-9703-4c9e8c1f797f)
 
 # I’m Olga Gotovtseva, Front End Developer
 
