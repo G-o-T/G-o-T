@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![ava](https://github.com/G-o-T/G-o-T/assets/95774476/df1b58ef-12b3-4938-a005-1abfaeacd958)
-
 # I’m Olga Gotovtseva, Front End Developer
 
 - 🔭 I’m currently working on the SPA in React for learning foreign languages
