@@ -20,8 +20,7 @@ Besides I have B2 level in English.
 [![Linkedin Badge](https://img.shields.io/badge/-gotovtseva-yellow?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/gotovtseva/)](https://www.linkedin.com/in/gotovtseva/)
 
 ### Frontend Course Certificate
-![olga_gotovtseva-min](https://github.com/G-o-T/G-o-T/assets/95774476/91442cab-86e7-4d60-b643-df2f0aaa620c)
-
+![cert](https://github.com/G-o-T/G-o-T/assets/95774476/81a18bc9-ae12-44a9-938c-4bea04c30476)
 
 ### Technologies:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
